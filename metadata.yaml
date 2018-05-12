@@ -1,0 +1,32 @@
+_repo: The-Camp-Fire-Girls-in-Glorious-France_45236
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 45236-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Vandercook, Margaret
+    birthdate: 1876
+    gutenberg_agent_id: '2838'
+    url: http://www.gutenberg.org/2009/agents/2838
+    wikipedia: http://en.wikipedia.org/wiki/Margaret_Vandercook
+description: ''
+gutenberg_issued: '2014-03-28'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '45236'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'France -- Description and travel -- Juvenile fiction'
+- !lcc 'PZ'
+- !lcsh 'Young women -- Social life and customs -- Juvenile fiction'
+- !lcsh 'Voyages and travels -- Juvenile fiction'
+- !lcsh 'Paris (France) -- Description and travel -- Juvenile fiction'
+- !lcsh 'Adventure stories'
+- !lcsh 'French -- Social life and customs -- Juvenile fiction'
+- !lcsh 'Camp Fire Girls -- Juvenile fiction'
+title: The Camp Fire Girls in Glorious France
+url: http://www.gutenberg.org/ebooks/45236
